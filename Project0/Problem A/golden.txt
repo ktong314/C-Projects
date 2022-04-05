@@ -1,0 +1,7 @@
+0.123456 squared is 0.0152414
+1.23456 squared is 1.52414
+12.3456 squared is 152.414
+123.456 squared is 15241.4
+1234.56 squared is 1.52414e+06
+12345.6 squared is 1.52414e+08
+123456 squared is 1.52414e+10

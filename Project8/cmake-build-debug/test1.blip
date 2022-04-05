@@ -1,0 +1,31 @@
+text "Hello, and welcome to Blip\n" // first line
+var x 42
+var y + x 1
+output y text \n
+output && 5 42 text \n
+output       + && 6 12 10
+text \n
+var asdfsdf 7
+var asdfsdf 12
+output * 5 - 7 1
+text \n
+output * + 5 3 - x 1
+text \n
+// set x to (5 + 3) * (x – 1)
+set x
+*
++ 5 3
+- x ~ 1
+
+output x
+text " yoink\n"
+output + && 6 12 10
+text " here\n"
+
+set x 5
+var y 11
+output 42 text \n
+output + 1 1 text \n
+output * x x text \n
+output * y y text \n
+output + * x x * y y text \n

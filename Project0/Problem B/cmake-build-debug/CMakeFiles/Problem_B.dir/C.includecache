@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project0/Problem B/anagrams_starter.c
+stdio.h
+-
+assert.h
+-
+

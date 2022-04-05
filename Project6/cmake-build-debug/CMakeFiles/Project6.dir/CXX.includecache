@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project6/MazeParams.h
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project6/Project6.cpp
+stdio.h
+-
+stdint.h
+-
+MazeParams.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project6/MazeParams.h
+Recursion.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project6/Recursion.h
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project6/Recursion.h
+

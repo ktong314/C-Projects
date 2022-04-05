@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project5/Project5.cpp
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+Set.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project5/Set.h
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project5/Set.h
+

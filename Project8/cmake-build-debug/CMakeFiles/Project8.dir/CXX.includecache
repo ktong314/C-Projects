@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project8/Parse.h
+stdint.h
+-
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project8/main.cpp
+iostream
+-
+map
+-
+list
+-
+stack
+-
+vector
+-
+Parse.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project8/Parse.h
+

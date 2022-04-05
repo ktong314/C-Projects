@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project7/Customer.h
+UTString.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project7/UTString.h
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project7/CustomerDB.cpp
+iostream
+-
+cassert
+-
+UTString.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project7/UTString.h
+CustomerDB.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project7/CustomerDB.h
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project7/CustomerDB.h
+UTString.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project7/UTString.h
+Customer.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project7/Customer.h
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project7/UTString.h
+stdlib.h
+-
+stdint.h
+-
+

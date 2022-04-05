@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project2/MatrixMultiply.h
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project2/Project2.cpp
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+MatrixMultiply.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project2/MatrixMultiply.h
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project3/UTString.h
+stdint.h
+-
+
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project3/main.cpp
+stdio.h
+-
+string.h
+-
+UTString.h
+C:/Users/ktong/Desktop/ECE/EE312/Projects/Project3/UTString.h
+stdlib.h
+-
+
