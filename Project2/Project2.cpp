@@ -1,8 +1,3 @@
-/* Project2.cpp
- * Kevin Tong
- * EE312, Fall 2021
- * Project 2, Matrix Multiplication
- */
 
 #include <stdio.h>
 #include <stdint.h>

@@ -1,10 +1,4 @@
-// CRM <Project4.cpp>
-// EE 312 Project 4 submission by
-// <Kevin Tong>
-// <kyt259>
-// Slip days used: <0>
-// Fall 2021
-// Copy-Paste the above lines at the top of your submitted files.
+
 
 
 #include <stdio.h>

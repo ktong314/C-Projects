@@ -1,10 +1,4 @@
-/*
- * Project1.cpp
- *
- * Name: Kevin Tong
- * EE312 Fall 2021
- * SuperStrings
- */
+
 
 #include <stdio.h> // provides declarations for printf and putchar
 #include <stdint.h> // provides declarations for int32_t uint32_t and the other (new) standard C types

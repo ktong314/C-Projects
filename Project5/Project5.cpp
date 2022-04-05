@@ -1,9 +1,3 @@
-// Set <Project5.cpp>
-// EE 312 Project 5 submission by
-// Kevin Tong
-// kyt259
-// Slip days used: <0>
-// Fall 2021
 
 #include <stdio.h>
 #include <stdlib.h>

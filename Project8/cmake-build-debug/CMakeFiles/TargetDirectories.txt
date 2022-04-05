@@ -1,3 +1,0 @@
-C:/Users/ktong/Desktop/ECE/EE312/Projects/Project8/cmake-build-debug/CMakeFiles/Project8.dir
-C:/Users/ktong/Desktop/ECE/EE312/Projects/Project8/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ktong/Desktop/ECE/EE312/Projects/Project8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

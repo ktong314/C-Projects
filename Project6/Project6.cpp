@@ -1,9 +1,4 @@
-// Recursion <Project6.cpp>
-// EE 312 Project 6 submission by
-// <Kevin Tong>
-// <kyt259>
-// Slip days used: <0>
-// Fall 2021
+
 
 #include <stdio.h>
 #include <stdint.h>
